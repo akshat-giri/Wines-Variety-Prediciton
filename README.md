@@ -1,6 +1,6 @@
 <h1 align="center"><u>Wines-Variety-Prediciton</u></h1>
 
-<h3 align="center">Data:- https://drive.google.com/drive/my-drive</h3>
+<h3 align="center">Data:- https://drive.google.com/file/d/1sket992ck8j1Eau6dhr2Jc8bk_kk01es/view</h3>
 
 # Context:-
 
