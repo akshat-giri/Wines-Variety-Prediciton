@@ -1,5 +1,7 @@
 <h1 align="center"><u>Wines-Variety-Prediciton</u></h1>
 
+## Data:- https://drive.google.com/drive/my-drive
+
 # Context:-
 
    • Imagine you are working as a Data Scientist for an Online Wine Shop named “The Wine Land”.
@@ -43,3 +45,4 @@
    •   <b>winery - </b> The winery that made the wine.
  
    •   <b>variety - </b>The type of grapes used to make the wine. Dependent variable for task 2 of the assignment.
+
